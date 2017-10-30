@@ -1,0 +1,33 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "my exam",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SibelIb/ToDo.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "POST",
+    "GET",
+    "mongoose"
+  ],
+  "author": "Sibel Ibryamova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SibelIb/ToDo/issues"
+  },
+  "homepage": "https://github.com/SibelIb/ToDo#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.12.5",
+    "nodemon": "^1.12.1"
+  }
+}
